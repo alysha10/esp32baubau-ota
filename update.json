@@ -1,5 +1,5 @@
 {
-  "version": "1.23",
+  "version": "1.3",
   "token": "ABC123XYZ", 
   "firmware_url": "https://github.com/alysha10/esp32baubau-ota/raw/refs/heads/main/sketch_aug31c.ino.bin"
 }
